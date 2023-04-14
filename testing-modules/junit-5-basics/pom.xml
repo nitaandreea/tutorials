@@ -152,7 +152,7 @@
         <junit.platform.version>1.2.0</junit.platform.version>
         <junit.vintage.version>5.2.0</junit.vintage.version>
         <h2.version>1.4.196</h2.version>
-        <spring.version>5.0.6.RELEASE</spring.version>
+        <spring.version>5.2.24.RELEASE</spring.version>
         <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
     </properties>
 

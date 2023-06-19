@@ -352,7 +352,7 @@
         <javassist.version>3.21.0-GA</javassist.version>
 		
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         
         <!-- Maven plugins -->

@@ -233,7 +233,7 @@
         <taglibs-standard.version>1.1.2</taglibs-standard.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <xml-apis.version>1.4.01</xml-apis.version>
 

@@ -8,7 +8,7 @@
 	<name>versions-maven-plugin</name>
 	
     <properties>        
-        <commons-compress-version>1.15</commons-compress-version>
+        <commons-compress-version>1.26.0</commons-compress-version>
     </properties>
 
     <dependencies>
